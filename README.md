@@ -5,8 +5,8 @@
 </p>
 
 🌱 Currently
-- Learning **DSA, Web Dev
-- Exploring **Python, C++ , CSS , Javascript
+- Learning DSA, Web Dev
+- Exploring Python, C++ , CSS , Javascript
 
  📊 GitHub Stats
 <p align="center">
