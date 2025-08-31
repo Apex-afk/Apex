@@ -6,7 +6,7 @@
 
 🌱 Currently
 - Learning **DSA, Web Dev
-- Exploring **Python, C++ , CSS , Javascripy
+- Exploring **Python, C++ , CSS , Javascript
 
  📊 GitHub Stats
 <p align="center">
